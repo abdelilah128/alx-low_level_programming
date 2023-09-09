@@ -1,8 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - this is the main function where we can code
- * Return: always 0
+ * main - Entry point
+ * Description: A C program that prints with puts function.
+ * Return: Always 0 (success)
  */
 
 int main(void)
