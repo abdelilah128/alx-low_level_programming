@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - main function
  *
- * Description: using sizeof to print size of various types.
+ * Description: using sizeof to print the size of various types.
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (success)
  */
+
 int main(void)
 {
 printf("size of a char: %lu byte(s)", sizeof(char));
